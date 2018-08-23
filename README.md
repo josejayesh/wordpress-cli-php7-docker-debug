@@ -1,1 +1,1 @@
-# wordpress-cli-php7-docker-debug
+# wordpress-cli-php5-docker
